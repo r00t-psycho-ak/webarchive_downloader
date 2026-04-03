@@ -27,7 +27,7 @@ The output file will contain all URLs and parameters retrieved from web.archive.
 
 ## Installation
 1.  Clone the repository:
- `git clone https://github.com/yourusername/web-archive-downloader.git
+ `git clone https://github.com/r00t-psycho-ak/webarchive_downloader.git
  cd web-archive-downloader` 
   
 2.  Install dependencies:
